@@ -86,7 +86,7 @@ def load_data(zip_file):
 
 """
 -------------------------------------------------------------------
-    Function for the parallel image processing
+    Function for the image processing
 -------------------------------------------------------------------
 """
 def process_data(image_name, image_bytes):
