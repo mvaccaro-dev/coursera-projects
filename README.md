@@ -167,6 +167,9 @@ search_string('Mark')
 
     [DEBUG] Loading data...
     [DEBUG] Data loaded in 00:22:14
+    ----------------------------------------------------------
+    Searching for: Christopher
+    ----------------------------------------------------------
     Results found in file a-0.png
 
 
@@ -181,6 +184,9 @@ search_string('Mark')
 ![png](output_1_3.png)
 
 
+    ----------------------------------------------------------
+    Searching for: Mark
+    ----------------------------------------------------------
     Results found in file a-0.png
 
 
